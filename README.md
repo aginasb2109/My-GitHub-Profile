@@ -1,4 +1,8 @@
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Aginas+B+%F0%9F%91%8B;Backend+Developer+%7C+Java+%26+JavaScript;Spring+Boot+%7C+Node.js+%7C+React;Building+Secure+%26+Scalable+Applications" alt="Typing Animation" /> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Aginas+B" alt="Typing Animation" />
+</p>
+
+
 💡 About Me
 
 🔹 Backend Developer with a passion for Java-based enterprise applications and modern JavaScript stacks.
